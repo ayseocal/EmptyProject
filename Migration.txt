@@ -1,0 +1,5 @@
+PM> Add-Migration InitialCreate
+
+//Komut çalýþmadýðýnda cmd ekranýndan proje klasörüne gidip onun üzerinden ayný komutu çalýþtýrabilirsin.
+//4 paketi unutma 
+Design Tools sqlServer
